@@ -27,7 +27,6 @@ transaction window
 
 ![firefox_PfUwqnDywt](https://user-images.githubusercontent.com/61376605/132936738-54425b0a-8b2b-455c-bf28-35c585a2ce8a.png)
 
-![firefox_t201DNXJ43](https://user-images.githubusercontent.com/61376605/132936742-499c2c8f-8b60-4f1f-b389-634fe1d80026.png)
 
 # trasanction history
 
