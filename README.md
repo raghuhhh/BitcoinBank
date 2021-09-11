@@ -12,3 +12,18 @@ A web application used to transfer virtual money (Bitcoins ₿) between users an
  Transfer History of all the transactions.
 
 Flow : Home Page > Get Started with Bitcoin > Send Bitcoins (₿) > Enter customer Name and Number of Bitcoins (₿) > Bitcoins Sent (Alert) > See all Transactions (Transaction History)
+
+# sample user interface
+
+![firefox_egg9b4BgqR](https://user-images.githubusercontent.com/61376605/132936667-d6690f0d-19b5-47a3-b810-438d7801b42c.png)
+
+
+
+
+
+
+
+
+
+
+
