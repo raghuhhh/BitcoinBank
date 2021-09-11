@@ -29,6 +29,11 @@ transaction window
 
 ![firefox_t201DNXJ43](https://user-images.githubusercontent.com/61376605/132936742-499c2c8f-8b60-4f1f-b389-634fe1d80026.png)
 
+# trasanction history
+
+![image](https://user-images.githubusercontent.com/61376605/132936872-53983d82-36bd-42f4-a634-966a0c9c2c11.png)
+
+
 Donating
 
 ![firefox_goJjafE1qo](https://user-images.githubusercontent.com/61376605/132936788-e60a65dd-0a09-4703-b765-e99d9e91f5a5.png)
