@@ -31,7 +31,8 @@ transaction window
 
 Donating
 
-![firefox_Ze4B6fGKKK](https://user-images.githubusercontent.com/61376605/132936743-c57a6018-1d9e-4974-9b20-2414cee83bb9.png)
+![firefox_goJjafE1qo](https://user-images.githubusercontent.com/61376605/132936788-e60a65dd-0a09-4703-b765-e99d9e91f5a5.png)
+
 
 
 
