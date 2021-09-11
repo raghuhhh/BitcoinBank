@@ -15,7 +15,25 @@ Flow : Home Page > Get Started with Bitcoin > Send Bitcoins (₿) > Enter custom
 
 # sample user interface
 
+this is the Home page of the user interface
+
 ![firefox_egg9b4BgqR](https://user-images.githubusercontent.com/61376605/132936667-d6690f0d-19b5-47a3-b810-438d7801b42c.png)
+
+customer details
+
+![firefox_Ze4B6fGKKK](https://user-images.githubusercontent.com/61376605/132936706-59cb4cb2-7ffb-4f2c-aae3-63d85d54acf2.png)
+
+transaction window
+
+![firefox_PfUwqnDywt](https://user-images.githubusercontent.com/61376605/132936738-54425b0a-8b2b-455c-bf28-35c585a2ce8a.png)
+
+![firefox_t201DNXJ43](https://user-images.githubusercontent.com/61376605/132936742-499c2c8f-8b60-4f1f-b389-634fe1d80026.png)
+
+Donating
+
+![firefox_Ze4B6fGKKK](https://user-images.githubusercontent.com/61376605/132936743-c57a6018-1d9e-4974-9b20-2414cee83bb9.png)
+
+
 
 
 
